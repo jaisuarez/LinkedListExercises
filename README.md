@@ -1,5 +1,5 @@
 # LinkedListExercises
-[ 1 ] Create and display a Singly Linked List
+[ 1 ] Create and display a Singly Linked List /
 [ 2 ] Create a singly linked list of n nodes&display it in reverse order
 [ 3 ] Count the number of nodes on a singly linked list
 [ 4 ] Insert a new node at the beginning of a Singly Linked List
