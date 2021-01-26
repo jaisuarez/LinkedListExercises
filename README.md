@@ -1,2 +1,2 @@
 # LinkedListExercises
-Complete answer to linked list exercises in c
+[ 29 ] How to sort a linked list using bubble sort.
